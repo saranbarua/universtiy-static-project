@@ -1,0 +1,1 @@
+# universtiy-static-project
